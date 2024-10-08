@@ -3,7 +3,7 @@ using namespace std;
 
 float CalcoloCirconferenza(float n1){
     float circonferenza;
-    circonferenza = (2*n1)*3.14;
+    circonferenza = (2*3.14)*n1;
     return circonferenza;
 }
 
