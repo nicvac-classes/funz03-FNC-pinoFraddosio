@@ -25,7 +25,6 @@ int main() {
     circonferenza2 = CalcoloCirconferenza(r2);
     cout<<"L'Area del priomo cerchio equivale a: "<<area1<<"; e la circonferenza a: "<<circonferenza1<<endl;
     cout<<"L'Area del secondo cerchio equivale a: "<<area2<<"; e la circonferenza a: "<<circonferenza2<<endl;
-
 }
 
 
